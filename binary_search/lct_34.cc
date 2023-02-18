@@ -1,5 +1,6 @@
 // https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/
 // 二分查找
+// binary_search_template
 class Solution {
 public:
     // 闭区间二分
