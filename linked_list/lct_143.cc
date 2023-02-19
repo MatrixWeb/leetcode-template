@@ -23,6 +23,7 @@ public:
         }
         return slow;
     }
+    // 反转链表
     ListNode * reverse(ListNode* head) {
         ListNode* pre = nullptr;
         ListNode* cur = head;
